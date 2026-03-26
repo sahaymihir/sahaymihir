@@ -96,10 +96,10 @@ const mihir = {
 | Project | Description | Stack |
 |:-------:|:-----------:|:-----:|
 | 🏆 **[LeetTracker](https://github.com/sahaymihir/leettracker)** | Collaborative AWS-serverless platform to track & compare LeetCode progress | `React` `AWS Lambda` `DynamoDB` `API Gateway` `S3` |
-| 🏥 **[DocHealth+](https://github.com/sahaymihir/dochealth-plus)** | AI-powered health document management & analysis platform | `React` `Node.js` `AWS` |
+| 🏥 **[DocHealth+](https://github.com/sahaymihir/healthcare)** | AI-powered health document management & analysis platform | `React` `Node.js` `AWS` |
 | 🔐 **[MediCrypt](https://github.com/sahaymihir/medicrypt)** | Secure, encrypted medical records system with role-based access | `Java` `Cryptography` `Node.js` |
-| 🛒 **[Retail Buddy](https://github.com/sahaymihir/retail-buddy)** | Smart retail management software with analytics dashboard | `Python` `React` `SQL` |
-| 📱 **[PixelExp-MOD](https://github.com/sahaymihir/pixelexp-mod)** | Custom Android ROM fusing Google Pixel + AOSPA sources with exclusive features | `AOSP` `Java` `C++` `Android` |
+| 🛒 **[Retail Buddy](https://github.com/sahaymihir/RetailBuddy)** | Smart retail management software with analytics dashboard | `Python` `React` `SQL` |
+| 📱 **[PixelExp-MOD](https://github.com/PixelExp-Project)** | Custom Android ROM fusing Google Pixel + AOSPA sources with exclusive features | `AOSP` `Java` `C++` `Android` |
 
 </div>
 
