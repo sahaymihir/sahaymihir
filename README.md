@@ -10,9 +10,6 @@
 
 <br/>
 
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=sahaymihir&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
 </div>
 
 ---
